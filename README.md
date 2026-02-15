@@ -1,2 +1,2 @@
-# Calculator_C-_WinForm
+# Calculator_C#_WinForm
 My first project on GitHub
